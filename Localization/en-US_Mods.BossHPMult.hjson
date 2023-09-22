@@ -1,0 +1,47 @@
+Configs: {
+	BossHPMultConfig: {
+		DisplayName: Boss H P Mult Config
+
+		BHMValue: {
+			Label: Global Boss HP Multiplier
+			Tooltip:
+				'''
+				This value affects all bosses.
+				Value range : 1~1000 
+				Click to enter a value.
+				Boss Health * Multiplier
+				'''
+		}
+
+		Headers: {
+			GlobalNPCSettings: Global N P C Settings Header
+			SpecificNPCSettings: Specific N P C Settings Header
+		}
+
+		BossSettings: {
+			Label: Boss Settings
+			Tooltip: ""
+		}
+	}
+
+	BossEntry: {
+		Tooltip: ""
+
+		HPScale: {
+			Label: H P Scale
+			Tooltip: ""
+		}
+
+		DamageScale: {
+			Label: Damage Scale
+			Tooltip: ""
+		}
+
+		SizeScale: {
+			Label: Size Scale
+			Tooltip: ""
+		}
+	}
+
+	BossDefinition.Tooltip: ""
+}

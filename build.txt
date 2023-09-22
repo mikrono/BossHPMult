@@ -1,0 +1,3 @@
+displayName = Boss HP Multiplier
+author = mary
+version = 0.3
